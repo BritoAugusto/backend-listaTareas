@@ -1,0 +1,19 @@
+{
+  "name": "backendlistatareas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "morgan",
+    "Mongoose"
+  ],
+  "author": "Brito Augusto",
+  "license": "ISC",
+  "description": "proyecto para crear tareas",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
