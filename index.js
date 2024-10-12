@@ -3,6 +3,7 @@ import cors from 'cors';
 import morgan from "morgan";
 import path from 'path';
 import { fileURLToPath } from "url";
+import './src/database/databaseConection.js'
 
 const app = express();
 
