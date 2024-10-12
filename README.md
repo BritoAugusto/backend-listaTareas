@@ -31,5 +31,4 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-repositorio/proyecto-tareas.git
-   cd proyecto-tareas
+   git clone https://github.com/BritoAugusto/backend-listaTareas
